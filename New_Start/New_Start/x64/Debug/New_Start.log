@@ -1,0 +1,3 @@
+﻿  10_25.c
+D:\code\New_Start\10_25.c(120,1): warning C4715: “gcd”: 不是所有的控件路径都返回值
+  New_Start.vcxproj -> D:\code\New_Start\x64\Debug\New_Start.exe
